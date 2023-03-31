@@ -1,6 +1,6 @@
 Name:		texlive-poetry
 Version:	53129
-Release:	1
+Release:	2
 Summary:	Facilities for typesetting poetry and poetical structure
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/poetry
