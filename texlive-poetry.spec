@@ -3,7 +3,7 @@ Version:	53129
 Release:	2
 Summary:	Facilities for typesetting poetry and poetical structure
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/poetry
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/poetry
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/poetry.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/poetry.doc.r%{version}.tar.xz
